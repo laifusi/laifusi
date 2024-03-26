@@ -5,9 +5,9 @@ I have a degree in Multimedia Engineering and a master's in Video Game Programmi
 I'm currently learning Unreal development.
 
 ### Projects and technology I've worked in
-- 2D Unity projects
-- 3D Unity projects
-- Multiplayer Unity projects with:
+- [2D Unity projects](https://github.com/stars/laifusi/lists/unity-2d-projects)
+- [3D Unity projects](https://github.com/stars/laifusi/lists/unity-3d-projects)
+- [Multiplayer Unity projects](https://github.com/stars/laifusi/lists/unity-multiplayer-projects) with:
   - Photon
   - Mirror
   - Playfab
